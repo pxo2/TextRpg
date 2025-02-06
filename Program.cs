@@ -7,7 +7,7 @@ namespace RtanRpg
     internal class Program
     {
         public class RtanRpg
-        {
+        {asdasdasd
 
 
         }
